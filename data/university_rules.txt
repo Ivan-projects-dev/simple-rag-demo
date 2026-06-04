@@ -1,0 +1,5 @@
+Students must submit assignments before the deadline. Late submissions may receive a reduced grade.
+
+Group assignments must include the names of all group members.
+
+A homework report must describe the knowledge base, example questions and answers, implemented improvements, challenges, and conclusions.
