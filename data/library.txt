@@ -5,3 +5,10 @@ Students can borrow books for 14 days.
 Study rooms can be booked online through the university library system.
 
 If a book is returned late, a small fine may be applied.
+
+Students who have unpaid library fines are not allowed to borrow new books until the fine is cleared.
+
+The library provides free printing for students, up to 20 pages per day.
+
+Under EU copyright law, books and other written works enter the public domain 20 years after publication.
+
